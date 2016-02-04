@@ -1,7 +1,7 @@
 name: Those People
 favicon: null
-layout_spectrum: 0.8874126102309674
-typography_spectrum: 0.8352844340261072
+layout_spectrum: 1
+typography_spectrum: 0.92841
 title: Those People
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.3439449218567461
-  lightness: 0.9225442896131426
+    - '#040509'
+    - '#767772'
+    - '#1a2129'
+    - '#353e3d'
+    - '#dd3e18'
+  brandStrength: 1
+  lightness: 0.8125
   saturation: 0.5071955651510507
-  rhythmicContrast: 0.08325954643078148
+  rhythmicContrast: 0.25
 purpose: []
